@@ -1,0 +1,8 @@
+{
+  "name": "MAM global ",
+  "description": "A premium e-commerce platform for DXN health and wellness products, featuring an AI-powered health consultant and a seamless shopping experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
